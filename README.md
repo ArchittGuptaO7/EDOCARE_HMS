@@ -9,8 +9,8 @@
 
 🚀 A modern Hospital Management System to digitize healthcare operations and simplify patient-doctor interaction.
 
-🌐 Live Preview (Optional)
-https://your-live-link.com
+🌐 Live Preview 
+edocare.netlify.app
 
 ✨ Overview
 
